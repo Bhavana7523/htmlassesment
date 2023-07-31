@@ -1,0 +1,17 @@
+.container1 {
+    width:700px;
+    height:auto;
+    position:relative;
+    border: 1px solid black;
+    margin: 10px;
+}
+.container1 nav {
+    display: flex;
+    justify-content: space-around;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color:aquamarine;
+    padding: 10px 0;
+    position: sticky;
+}
