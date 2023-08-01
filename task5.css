@@ -18,6 +18,7 @@ body{
     object-fit: cover;
     transition: transform 0.3s ease-in-out;
     margin: 30px;
+    border-radius: 20%;
 }
 .child:hover{
     transform: scale(1.2);
